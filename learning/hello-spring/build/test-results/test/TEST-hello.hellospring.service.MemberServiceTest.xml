@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.hellospring.service.MemberServiceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-04-09T02:01:12" hostname="DESKTOP-7AF858N" time="0.012">
+  <properties/>
+  <testcase name="findOne()" classname="hello.hellospring.service.MemberServiceTest" time="0.001"/>
+  <testcase name="join()" classname="hello.hellospring.service.MemberServiceTest" time="0.006"/>
+  <testcase name="findMembers()" classname="hello.hellospring.service.MemberServiceTest" time="0.001"/>
+  <testcase name="duplicateMembersE()" classname="hello.hellospring.service.MemberServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
